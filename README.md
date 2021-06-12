@@ -7,4 +7,6 @@ game; with Stealing mode or without stealing mode.
 The project is implemented in python and console based.
 [![Video showing the game on play](https://www.youtube.com/watch?v=V9wDBga9myk )]
 
+[![Mancala-Game-Human-VS-AI](http://img.youtube.com/vi/https://youtu.be/V9wDBga9myk/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/V9wDBga9myk"Mancala-Game-Human-VS-AI")
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa9ta_M_MDT0AUjFDYDv0IcYfvLrrIb14yXw&usqp=CAU/relativePath">
